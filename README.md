@@ -1,4 +1,4 @@
-# VirtualMuseum
+# Virtual Museum
 This is a virtual museum game in which player can enjoy an immersive museum tour and examine the three scanned objects displayed in the museum.
 
 Specifically, The game includes the following functionalities:
