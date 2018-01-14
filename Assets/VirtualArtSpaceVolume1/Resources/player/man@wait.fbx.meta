@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: d8822a1788f3c1248a0fec5f93ca1749
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: joint41
+    100002: joint42
+    100004: joint43
+    100006: joint44
+    100008: joint45
+    100010: joint46
+    100012: joint47
+    100014: joint48
+    100016: joint49
+    100018: joint50
+    100020: joint50 1
+    100022: joint51
+    100024: joint51 1
+    100026: joint52
+    100028: joint52 1
+    100030: joint53
+    100032: joint53 1
+    100034: joint54
+    100036: joint54 1
+    100038: joint55
+    100040: joint55 1
+    100042: joint56
+    100044: joint56 1
+    100046: joint57
+    100048: joint58
+    100050: joint58 1
+    100052: joint59
+    100054: joint59 1
+    100056: joint60
+    100058: joint60 1
+    100060: joint61
+    100062: joint61 1
+    100064: joint62
+    100066: joint62 1
+    100068: joint71
+    100070: //RootNode
+    100072: polySurface1
+    100074: R
+    400000: joint41
+    400002: joint42
+    400004: joint43
+    400006: joint44
+    400008: joint45
+    400010: joint46
+    400012: joint47
+    400014: joint48
+    400016: joint49
+    400018: joint50
+    400020: joint50 1
+    400022: joint51
+    400024: joint51 1
+    400026: joint52
+    400028: joint52 1
+    400030: joint53
+    400032: joint53 1
+    400034: joint54
+    400036: joint54 1
+    400038: joint55
+    400040: joint55 1
+    400042: joint56
+    400044: joint56 1
+    400046: joint57
+    400048: joint58
+    400050: joint58 1
+    400052: joint59
+    400054: joint59 1
+    400056: joint60
+    400058: joint60 1
+    400060: joint61
+    400062: joint61 1
+    400064: joint62
+    400066: joint62 1
+    400068: joint71
+    400070: //RootNode
+    400072: polySurface1
+    400074: R
+    4300000: polySurface1
+    7400000: wait
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: wait
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: dd7ad16d8c4323f45a67657f0d737e65,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
